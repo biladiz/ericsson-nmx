@@ -5,7 +5,6 @@
       "version": "1.0.2",
       "providers": [
         {
-          "name": "virtualbox",
           "url": "https://arm.mo.sw.ericsson.se/artifactory/api/vagrant/proj-nmx-vagrant-local/minilab-virtualbox/minilab-virtualbox-1.0.2.box",
           "checksum_type": "sha1",
           "checksum": "7e9ad42706295b6b75d3ded689c0240e1fffb86c"
